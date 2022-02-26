@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmmanuelZambriniCruzeiro
-- I’m interested in, broadly speaking, quantum information science
+- I’m interested in quantum information
 - 📫 emmanuel.zambrinicruzeiro@gmail.com
 
 <!---
