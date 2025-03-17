@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelZambriniCruzeiro
-- I’m interested in quantum information
-- 📫 emmanuel.zambrinicruzeiro@gmail.com
+- I’m interested in quantum information science. 
+- 📫 emmanuel.cruzeiro@lx.it.pt, emmanuel.cruzeiro@tecnico.ulisboa.pt
 
 <!---
 EmmanuelZambriniCruzeiro/EmmanuelZambriniCruzeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
